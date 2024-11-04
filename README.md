@@ -1,5 +1,5 @@
-Verify the URL Launch successfully
-Verify that all clickable modules in the login interface function as expected
+1.) Verify the URL Launch successfully
+2.) Verify that all clickable modules in the login interface function as expected
 Verify that the error message is displayed appropriately
 Verify that the User cannot successfully Login with an empty Login details required field
 Verify that the User cannot successfully Login with an Empty Username required field with Valid password 
